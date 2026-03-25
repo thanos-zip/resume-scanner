@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # Resume Scanner
 
 > Upload a CV and a job description and get instant AI powered feedback on how well they match.
